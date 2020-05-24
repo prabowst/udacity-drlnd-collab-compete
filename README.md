@@ -1,4 +1,4 @@
-# Udacity DRLND - Continuous Control
+# Udacity DRLND - Collaboration and Competition
 
 This project entails a submisison for Udacity's Deep Reinforcement Learning Nanodegree Program: Project 3 - Collaboration and Competition.
 
