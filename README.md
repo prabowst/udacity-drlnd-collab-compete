@@ -51,7 +51,7 @@ The notebook Tennis.ipynb can be executed to train an agent. In training the age
 
 Since the environment requires two agents to be solved, a method called Multi Agent DDPG or MADDPG is implemented instead. This works similarly with DDPG, only differ in the number of agents used to solve the problem.
 
-**Execute Tennis.ipynb to train the agent using MADDPG.**
+**Execute Tennis.ipynb to train the agent using MADDPG and execute Tennis_Demo.ipynb to test the smart agents.**
 
 ### Files<a name="files"></a>
 
