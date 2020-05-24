@@ -59,6 +59,8 @@ Since the environment requires two agents to be solved, a method called Multi Ag
 
 ```
 - README.md
+- Tennis.ipynb # main notebook to train the agents
+- Tennis_Demo.ipynb # testing the saved model weights
 
 - figures
 |- maddpg_scores.png # plot of multi agent scores
